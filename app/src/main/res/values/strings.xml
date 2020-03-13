@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gold Portfolio</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_transactions">Transactions</string>
+    <string name="title_daily_rates">Daily Rates</string>
+
+    <!--    dashboard-->
+    <string name="dashboard_current_sell_value">Current sell  value</string>
+    <string name="dashboard_current_buy_value">Original buy  value</string>
+    <string name="dashboard_change_since_buy">Change since buy</string>
+    <string name="dashboard_change_since_last_sync">Change since last sync</string>
+    <string name="dashboard_portfolio_items">Portfolio items</string>
+</resources>
